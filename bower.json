@@ -1,0 +1,20 @@
+{
+  "name": "certificacao_bootstrap",
+  "authors": [
+    "Bruno Sardinha <brunosardinha111@gmail.com>"
+  ],
+  "description": "Projeto para o curso de Certificação Bootstrap",
+  "main": "index.js",
+  "keywords": [
+    "certificacao"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
